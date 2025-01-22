@@ -1,4 +1,4 @@
-console.log("Hello from github");
+console.log("Hello from github & jsdelivr");
 
 import { Clock } from "./clock.js";
 
