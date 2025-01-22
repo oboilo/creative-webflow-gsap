@@ -1,4 +1,4 @@
-console.log("Hello from local");
+console.log("Hello from github");
 
 import { Clock } from "./clock.js";
 
